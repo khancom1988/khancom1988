@@ -1,4 +1,6 @@
-[<img align="left" alt="Aadil | Profile" width="100px" src="https://media-exp1.licdn.com/dms/image/C4D03AQGjCnXDGcHIJw/profile-displayphoto-shrink_400_400/0?e=1613001600&v=beta&t=zqd-z6sYjhbwxNzzYuFDoU-85iftJCavudjrlj_Uwvo" />
+<img align="left" alt="Aadil | Profile" width="100px" src="https://media-exp1.licdn.com/dms/image/C4D03AQGjCnXDGcHIJw/profile-displayphoto-shrink_400_400/0?e=1613001600&v=beta&t=zqd-z6sYjhbwxNzzYuFDoU-85iftJCavudjrlj_Uwvo"/>
+
+<br />
 
 ### Hi there, This is Aadil Majeed :sunglasses:
 
