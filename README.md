@@ -33,6 +33,16 @@ Swift | Objective C | Jira | GitHub | SourceTree | Bitbucket | GitLabs
 - User Defaults
 - Property List
 
+#### UI and UX
+- Xib’s
+- Storyboard
+- LaunchScreens
+- Gestures
+- Segues
+- Auto-Resizing
+- Auto-Layout
+- UI Animations
+
 <br />
 
 <img align="left" alt="Aadil's Github Stats" src="https://github-readme-stats.vercel.app/api?username=khancom1988&show_icons=true&hide_border=true" />
