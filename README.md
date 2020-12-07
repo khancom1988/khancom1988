@@ -15,7 +15,23 @@
 <br />
 
 ### Languages and Tools:
-Swift | Objective C | Jira | GitHub
+Swift | Objective C | Jira | GitHub | SourceTree | Bitbucket | GitLabs
+
+<br />
+
+### Implementations and Integrations:
+
+## NetworkingandCaching
+# JSON Parsing
+# XML Parsing
+# URl Sessions
+# URL Connection
+# REST Web Services
+# URL Schema
+# Push Notifications
+# Core Data
+# User Defaults
+# Property List
 
 <br />
 
