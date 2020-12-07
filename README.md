@@ -43,6 +43,31 @@ Swift | Objective C | Jira | GitHub | SourceTree | Bitbucket | GitLabs
 - Auto-Layout
 - UI Animations
 
+#### iOS Native Features
+- Cloud Kit
+- Address Book
+- Audio Player
+- Core Locations
+- Camera
+- Mapkit
+- Video Player
+- KeyChain
+- In-App Purchase
+- Mail Composer
+- CarPlay
+
+#### Third Party Libraries
+- Google Maps
+- Firebase
+- Crashlytics
+- Google Analytics
+- Google AdMob 
+- Twilio
+- Google Cast
+- AWS
+- Charts
+- Etc
+
 <br />
 
 <img align="left" alt="Aadil's Github Stats" src="https://github-readme-stats.vercel.app/api?username=khancom1988&show_icons=true&hide_border=true" />
