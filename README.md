@@ -22,16 +22,16 @@ Swift | Objective C | Jira | GitHub | SourceTree | Bitbucket | GitLabs
 ### Implementations and Integrations:
 
 #### Networking and Caching
-##### JSON Parsing
-##### XML Parsing
-##### URl Sessions
-##### URL Connection
-##### REST Web Services
-##### URL Schema
-##### Push Notifications
-##### Core Data
-##### User Defaults
-##### Property List
+- JSON Parsing
+- XML Parsing
+- URl Sessions
+- URL Connection
+- REST Web Services
+- URL Schema
+- Push Notifications
+- Core Data
+- User Defaults
+- Property List
 
 <br />
 
