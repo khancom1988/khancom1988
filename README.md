@@ -5,7 +5,7 @@
 ### Hi there, This is Aadil Majeed :sunglasses:
 
 ## I'm a Developer, Learner and a music lover!
-- 🔭 I’m currently working as senior software engineer - Team Lead at BQE inc!
+- 🔭 I’m currently working as senior software engineer - Team Lead at www.bqe.com!
 - 🌱 I’m an also working as a freelancer on weekends!
 - ⚡ Fun fact: I love watch thriller movies/series!
 
