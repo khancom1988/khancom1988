@@ -1,76 +1,41 @@
-### Hi there 👋
+### Hi there, This is Aadil Majeed :sunglasses:
 
-● LeadSoftwareEngineer​-​01/04/2014-Present BQE Inc, Srinagar, Jammu And Kashmir
-● Translated basic design plans into full iOS app frameworks, delegating project components to appropriate team members.
-● Applied Apple's Swift development language to code native apps for iOS platform.
-● Followed Apple's Human Interface guidelines to create products aligned with iOS UI norms.
-● Instructed junior developers on use of Swift programming language, creating a collaborative learning environment for onboard personnel.
-● Sr.iOSSoftwareEngineer​-​​01/04/2013-30/03/2014 mPortal India Pvt Ltd, Bangalore, Karnataka
-● Software Engineer​ - ​01/06/2012 - 30/03/2013 Permeative Technologies Pvt Ltd, Bangalore, Karnataka
-● AssociateSoftwareEngineer​-​01/06/2011-31/05/2012 Permeative Technologies Pvt Ltd, Bangalore, Karnataka
-Technical Exposure
-●​ ​ SDK:iOS(6-14)
-● IDE/Tools: Xcode (4.0 - 12.0), SourceTree, Bitbucket, Git, GitLabs ● Programming Languages : Swift, Objective-C
- Implementations and Integrations
-● NetworkingandCaching
-○ JSON Parsing
-○ XML Parsing
-○ URl Sessions
-○ URL Connection
-○ REST Web Services
-○ URL Schema
-○ Push Notifications
-○ Core Data
-○ User Defaults
-○ Property List
-● UIandUX
-○ Xib’s
-○ Storyboard
-○ LaunchScreens
-○ Gestures
-○ Segues
-○ Auto-Resizing
-○ Auto-Layout
-○ UI Animations
-● iOSNativeFeatures
-○ Cloud Kit
-○ Address Book
-○ Audio Player
-○ Core Locations
-○ Camera
-○ Mapkit
-○ Video Player
-○ KeyChain
-○ In-App Purchase
-○ Mail Composer
-● ThirdPartyLibraries
-○ Google Maps
-○ Firebase
-○ Crashlytics
+## I'm a Developer, Learner and a music lover!
+- 🔭 I’m currently working as senior software engineer - Team Lead at BQE inc!
+- 🌱 I’m an also working as a freelancer on weekends!
+- ⚡ Fun fact: I love watch thriller movies/series!
 
-○ Google Analytics
-○ Google AdMob ○ Etc
-Achievements
-● Got appreciation for hard work and dedication from both current and previous companies.
-● Got 2 back to back Employee of the month title in 2019
-Academic Qualifications
-● ​ Schooling From Govt. High school Bagh Bandipora in 2003, Aggregate 69.00%.
-● Bachelor of Technology (B.Tech-2010) In Computer science, MIET, Jammu University, Aggregate 62.60%.
-Strengths
-● ​ Hard working, honest and committed towards my work ● Good and Quick Learner
+### Connect with me:
 
+[<img align="left" alt="Aadil | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="Aadil | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Aadil | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Aadil | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-<!--
-**khancom1988/khancom1988** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br />
 
-Here are some ideas to get you started:
+### Languages and Tools:
 
-- 🔭 I’m currently working on CORE
-- 🌱 I’m currently learning Swift
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: majeed.aadil1988@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align="left" alt="Objective C" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/python.svg" />
+<img align="left" alt="Swift" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/swift.svg" />
+<br />
+
+---
+
+### 📕 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+- [Microservice Architecture with Spring Boot](https://medium.com/@lakshyajit165/microservice-architecture-with-spring-boot-732d58b1c695?source=rss-792ccd21180e------2)
+- [PageFile in Windows 10 — A life saver (P.S. I still hate windows for programming)](https://medium.com/@lakshyajit165/pagefile-in-windows-10-a-life-saver-p-s-i-still-hate-windows-for-programming-2b583d50fb26?source=rss-792ccd21180e------2)
+- [The Riveting Tale of Docker Network Bridge & Docker Network Host](https://medium.com/swlh/the-riveting-tale-of-docker-network-bridge-docker-network-host-3a543403a357?source=rss-792ccd21180e------2)
+- [Deploying an Angular App to Netlify using Netlify CLI and Gitlab CI](https://medium.com/@lakshyajit165/deploying-an-angular-app-to-netlify-using-netlify-cli-and-gitlab-ci-313d9ff9180a?source=rss-792ccd21180e------2)
+- [PollsForYou — A simple polling app](https://medium.com/@lakshyajit165/pollsforyou-a-simple-polling-app-f7534dac4cb8?source=rss-792ccd21180e------2)
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+<img align="left" alt="Elkay's Github Stats" src="https://github-readme-stats.vercel.app/api?username=lakshyajit165&show_icons=true&hide_border=true" />
+
+[facebook]: https://www.facebook.com/lakshyajit.laxmikant
+[twitter]: https://twitter.com/LakshyajitL
+[instagram]: https://www.instagram.com/_c0de_r1der_/
+[linkedin]: https://www.linkedin.com/in/lakshyajit/
