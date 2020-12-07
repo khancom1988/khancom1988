@@ -15,7 +15,7 @@
 <br />
 
 ### Languages and Tools:
-
+Swift | Objective C | 
 <img align="left" alt="Objective C" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/C++.svg" />
 <img align="left" alt="Swift" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/swift.svg" />
 <br />
