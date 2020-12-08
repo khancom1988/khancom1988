@@ -6,7 +6,7 @@
 
 ## I'm a Developer, Learner and a music lover!
 - 🔭 I’m currently working as senior software engineer - Team Lead at www.bqe.com!
-- 🌱 I’m also work as a freelancer on weekends!
+- 🌱 I also work as a freelancer on weekends!
 - ⚡ Fun fact: I love watch thriller movies/series!
 
 ### Connect with me:
