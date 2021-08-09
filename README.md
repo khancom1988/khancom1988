@@ -8,6 +8,8 @@
 - 🔭 I’m currently working as senior software engineer - Team Lead at www.bqe.com!
 - 🌱 I also work as a freelancer on weekends!
 - ⚡ Fun fact: I love watch thriller movies/series!
+- ⚡ Portfolio: https://majeedaadil1988.wixsite.com/portfolio
+
 
 ### Connect with me:
 
