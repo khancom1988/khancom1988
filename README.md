@@ -5,7 +5,7 @@
 ### Hi there, This is Aadil Majeed :sunglasses:
 
 ## I'm a Developer, Learner and a music lover!
-- 🔭 I’m currently working as senior software engineer - Team Lead at www.bqe.com!
+- 🔭 I’m currently working as senior software engineer - Technology Lead at https://tinychef.ai!
 - 🌱 I also work as a freelancer on weekends!
 - ⚡ Fun fact: I love watch thriller movies/series!
 - ⚡ Portfolio: https://majeedaadil1988.wixsite.com/portfolio
@@ -26,6 +26,7 @@ Swift | Objective C | Jira | GitHub | SourceTree | Bitbucket | GitLabs
 ### Implementations and Integrations:
 
 #### Networking and Caching
+- Dialogflow Voice search using GRPC
 - JSON Parsing
 - XML Parsing
 - URl Sessions
